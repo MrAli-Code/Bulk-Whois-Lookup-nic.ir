@@ -21,3 +21,4 @@ check sleep time in line ... `sleep(10)`
 
 ## Versions
 v1.0
+v1.1: Add expire date and Update functions.
