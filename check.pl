@@ -42,7 +42,7 @@ while ($domain = <$fh>) {
                 $email = $& if $string =~ '[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+';
                 $expire = $& if $string =~ 'expire\-date\:\s[0-9]{4}-[0-9]{2}-[0-9]{2}';
                 open(my $filehandler, '>>', 'result.txt');
-                print $filehandler $domain . ", Email: " . $email . "Expire Date: " . $expire "\n";
+                print $filehandler $domain . ", Email: " . $email . "Expire Date: " . $expire . "\n";
                 close $filehandler;
         }
         sleep(8)
