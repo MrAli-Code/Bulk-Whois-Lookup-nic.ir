@@ -20,5 +20,5 @@ You can change sleep time to prevent blocking in NIC.ir firewall ...
 check sleep time in line ... `sleep(10)`
 
 ## Versions
-v1.0
-v1.1: Add expire date and Update functions.
+- v1.0
+- v1.1: Add expire date and Update functions.
