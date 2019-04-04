@@ -1,7 +1,5 @@
 # Bulk-Whois-Lookup-nic.ir
 NIC.ir Bulk Whois Lookup
-# Bulk-Whois-Lookup-nic.ir
-NIC.ir Bulk Whois Lookup
 
 ## Domain List
 Insert your domain into `list.txt`
