@@ -1,4 +1,4 @@
-# Bulk-Whois-Lookup-nic.ir
+# Bulk Whois Lookup NIC.ir
 NIC.ir Bulk Whois Lookup
 
 ## Domain List
@@ -12,7 +12,7 @@ chmod +x check.pl
 ./check.pl
 ```
 
-## Whois Lookup 
+## Whois Lookup Result
 Check your whois result in `result.txt`
 
 ## Sleep time
